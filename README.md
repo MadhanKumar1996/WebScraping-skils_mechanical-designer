@@ -1,4 +1,4 @@
-# Webscrpaing-skils_mechanical-designer
+# Webscraping-skils_mechanical-designer
 Find the most requested skills in mechanical design in India for 2023
 
 ## Table of Contents
